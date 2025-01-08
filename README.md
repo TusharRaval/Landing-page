@@ -1,4 +1,4 @@
-# live link:- https://gleaming-blancmange-c77f17.netlify.app/](https://incomparable-elf-30209f.netlify.app/
+# live link:-https://incomparable-elf-30209f.netlify.app/
 # Hero section of site
 # Getting Started with Create React App
 
